@@ -24,7 +24,7 @@ github_username:  emylonas
 
 # Build settings
 markdown: kramdown
-theme: hacker
+theme: Hacker
 gems:
   - jekyll-feed
 exclude:
