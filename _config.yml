@@ -24,7 +24,7 @@ github_username:  emylonas
 
 # Build settings
 markdown: kramdown
-theme: modernist
+theme: minima
 gems:
   - jekyll-feed
 exclude:
