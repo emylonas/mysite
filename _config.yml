@@ -17,8 +17,6 @@ title: A New Site
 email: elli_mylonas@brown.edu
 description: > # this means to ignore newlines until "baseurl:"
   a detailed description very detailed! all of 1 line And then some.
-baseurl: "/mysite" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: elli_m
 github_username:  emylonas
 
